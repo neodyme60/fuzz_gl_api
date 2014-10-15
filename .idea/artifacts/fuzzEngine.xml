@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="fuzzEngine">
+    <output-path>$PROJECT_DIR$/jar</output-path>
+    <root id="archive" name="fuzzEngine.jar">
+      <element id="module-output" name="fuzzEngine" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/fuzzEngine/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="fuzzGlSamples">
+    <output-path>$PROJECT_DIR$/jar</output-path>
+    <root id="archive" name="fuzzGlSamples.jar">
+      <element id="module-output" name="fuzzGlSamples" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/fuzzGlSamples/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

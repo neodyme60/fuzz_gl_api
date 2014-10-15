@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fuzzGl/fuzzGl.iml" filepath="$PROJECT_DIR$/fuzzGl/fuzzGl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fuzzGlSamples/fuzzGlSamples.iml" filepath="$PROJECT_DIR$/fuzzGlSamples/fuzzGlSamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fuzzMath/fuzzMath.iml" filepath="$PROJECT_DIR$/fuzzMath/fuzzMath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fuzzMathTesting/fuzzMathTesting.iml" filepath="$PROJECT_DIR$/fuzzMathTesting/fuzzMathTesting.iml" />
+    </modules>
+  </component>
+</project>
+
